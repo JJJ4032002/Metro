@@ -4,7 +4,7 @@ Material Design music player for Android music lovers
 
 ## Downloads
 
-TEST ANDROID BUILD
+TEST ANDROID BUILD stram
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
